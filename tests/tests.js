@@ -1,5 +1,5 @@
 const { expect } = require('chai');
-const mathmini = require('..');
+const mathmini = require('../src');
 
 describe('Testing add function', () => {
 	it('add(10, 5) should return 15', () => {
