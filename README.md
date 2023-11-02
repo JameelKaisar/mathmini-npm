@@ -7,6 +7,7 @@ npm install mathmini
 ```
 
 # Usage
+## JavaScript
 ```js
 var mathmini = require('mathmini');
 
