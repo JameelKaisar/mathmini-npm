@@ -1,6 +1,6 @@
 {
     "name": "mathmini",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Sample math library containing add and sub functions",
     "main": "src/index.js",
     "scripts": {
